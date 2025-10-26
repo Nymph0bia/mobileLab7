@@ -10,7 +10,7 @@
         android:theme="@style/Theme.Cupcake"
         tools:targetApi="33">
         <activity
-            android:name=".MainActivity"
+            android:name=".SecondActivity"
             android:exported="true"
             android:theme="@style/Theme.Cupcake">
             <intent-filter>
